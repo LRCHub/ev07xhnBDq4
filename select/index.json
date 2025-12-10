@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "神喰姫",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-10T13:17:44.751272Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神喰姫",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_神喰姫_HIMEHINA.txt"
+    }
+  ]
+}
